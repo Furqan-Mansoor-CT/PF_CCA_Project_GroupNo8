@@ -50,7 +50,7 @@ You need a C compiler such as **GCC**.
 **Compile**
 
 ```bash
-gcc Payroll_project.c -o payroll
+gcc Source_Code/main.c -o payroll
 ```
 
 **Run**
@@ -142,12 +142,12 @@ Invalid input, must be in between 0 and 11
 ## Folder Structure
 
 ```text
-Payroll-System/
-├── Payroll_project.c      # Complete source code
-├── Project_Report.pdf   # Project report
-├── README.md              # This file
-├── Flowchart.pdf          # Program flowchart
-├── EMPLOYEE.csv           # Created when data is saved
-├── Attendance.csv         # Created when data is saved
-└── Payroll.csv            # Created when data is saved
+PF_CCA_Project_GroupNo8/
+├── Source_Code/
+│   └── main.c             # Complete source code
+├── Screenshots/
+│   ├── output1.png        # Screenshots of the running program
+│   └── ...                # output1.png to output13.png
+├── Project_Report.pdf     # Project report (includes the flowchart)
+└── README.md              # This file
 ```
