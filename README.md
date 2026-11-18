@@ -12,7 +12,7 @@ Doing payroll by hand is slow and easy to get wrong, especially when employees a
 
 | S. No. | Name | Roll Number | Section |
 |:------:|------|-------------|:-------:|
-| 1 | Furqan Mansoor | CT-26148 | E |
+| 1 | Furqan Mansoor | CT-26248 | E |
 | 2 | Abubakar Azhar | CT-26223 | E |
 | 3 | Ahmed Raza | CT-26229 | E |
 | 4 | Shahmeer | CT-26240 | E |
